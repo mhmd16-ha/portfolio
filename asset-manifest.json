@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d859b76e.css",
+    "main.js": "./static/js/main.bdb720fd.js",
+    "static/js/453.1407b060.chunk.js": "./static/js/453.1407b060.chunk.js",
+    "static/media/flat-lay-workstation-with-copy-space-laptop.jpg": "./static/media/flat-lay-workstation-with-copy-space-laptop.685296bfafdb21fc8cb9.jpg",
+    "static/media/Yummy.PNG": "./static/media/Yummy.83188e999d60565aa1ef.PNG",
+    "static/media/Website1.PNG": "./static/media/Website1.26202153dd7a8d787243.PNG",
+    "static/media/Weatrher.PNG": "./static/media/Weatrher.b78adc9d973cd816c8e0.PNG",
+    "static/media/Movie.png": "./static/media/Movie.3beae45ce40b6f4e8fe0.png",
+    "static/media/E-commerc.png": "./static/media/E-commerc.211d7226145ba8eeb6aa.png",
+    "static/media/Website2.PNG": "./static/media/Website2.771fc8a4189e1f50790a.PNG",
+    "static/media/mohammed-saeed-Hamouda-Resume-20240229.pdf": "./static/media/mohammed-saeed-Hamouda-Resume-20240229.f3f0095b6a356f8f784b.pdf",
+    "static/media/about-us.png": "./static/media/about-us.b89e4185d728718f1687.png",
+    "static/media/home-right.png": "./static/media/home-right.b68bdeada83bcb8b8f98.png",
+    "static/media/Bookmark.png": "./static/media/Bookmark.4132785078e77ea5bc7d.png",
+    "static/media/ticTocTak.png": "./static/media/ticTocTak.0b380975f69f90c7e400.png",
+    "static/media/html.jpg": "./static/media/html.2146ab5f45427db43969.jpg",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "main.d859b76e.css.map": "./static/css/main.d859b76e.css.map",
+    "main.bdb720fd.js.map": "./static/js/main.bdb720fd.js.map",
+    "453.1407b060.chunk.js.map": "./static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d859b76e.css",
+    "static/js/main.bdb720fd.js"
+  ]
+}
